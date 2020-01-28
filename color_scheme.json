@@ -1,0 +1,210 @@
+{
+    "orange_light": {
+        "appearance": "light",
+        "colors": {
+            "statusbar": {
+                "color_identifier": "orange900"
+            },
+            "navbar": {
+                "color_identifier": "orange700"
+            },
+            "background_popup": {
+                "color_identifier": "white"
+            },
+            "background_page": {
+                "color_identifier": "white"
+            },
+            "background_block": {
+                "color_identifier": "white"
+            },
+            "background_subtitle": {
+                "color_identifier": "grey"
+            },
+            "substrate": {
+                "color_identifier": "grey"
+            },
+            "button_bg_positive": {
+                "color_identifier": "gradient_green"
+            },      
+            "button_bg_negative": {
+                "color_identifier": "gradient_red"
+            },
+            "button_bg_secondary": {
+                "color_identifier": "black900_alpha30"
+            },
+            "button_bg_disabled": {
+                "color_identifier": "black900_alpha20"
+            },
+            "button_label": {
+                "color_identifier": "white"
+            },
+            "button_label_disabled": {
+                "color_identifier": "white_alpha80"
+            },
+            "input_bg_default": {
+                "color_identifier": "black900_alpha20"
+            },
+            "input_bg_selected": {
+                "color_identifier": "orange700"
+            },
+            "input_bg_error": {
+                "color_identifier": "red900"
+            },   
+            "input_placeholder": {
+                "color_identifier": "black900_alpha30"
+            },
+            "input_text": {
+                "color_identifier": "black900"
+            },
+            "checkbox_default": {
+                "color_identifier": "black900_alpha50"
+            },
+            "checkbox_selected": {
+                "color_identifier": "green700"
+            },
+            "icon_action": {
+                "color_identifier": "orange900"
+            },
+            "icon_navbar": {
+                "color_identifier": "white"
+            },
+            "icon_on_img": {
+                "color_identifier": "white_alpha30"
+            },
+            "icon_popup": {
+                "color_identifier": "black900_alpha20"
+            },      
+            "separator": {
+                "color_identifier": "black900_alpha10"
+            },
+            "text_main": {
+                "color_identifier": "black900"
+            },
+            "text_primary": {
+                "color_identifier": "black900_alpha80"
+            },
+            "text_secondary": {
+                "color_identifier": "black900_alpha50"
+            },
+            "text_success": {
+                "color_identifier": "green900"
+            },
+            "text_error": {
+                "color_identifier": "red900"
+            },
+            "text_link_main": {
+                "color_identifier": "orange900"
+            },
+            "text_link_secondary": {
+                "color_identifier": "blue900"
+            },
+            "text_money": {
+                "color_identifier": "red700"
+            }                                     
+    	}
+	},
+	"black_dark": {
+        "appearance": "dark",
+        "colors": {
+            "statusbar": {
+                "color_identifier": "black700"
+            },
+            "navbar": {
+                "color_identifier": "black700"
+            },
+            "background_popup": {
+                "color_identifier": "black500"
+            },
+            "background_page": {
+                "color_identifier": "black800"
+            },
+            "background_block": {
+                "color_identifier": "black500"
+            },
+            "background_subtitle": {
+                "color_identifier": "black700"
+            },
+            "substrate": {
+                "color_identifier": "black900"
+            },
+            "button_bg_positive": {
+                "color_identifier": "gradient_green"
+            },      
+            "button_bg_negative": {
+                "color_identifier": "gradient_red"
+            },
+            "button_bg_secondary": {
+                "color_identifier": "black300"
+            },
+            "button_bg_disabled": {
+                "color_identifier": "white_alpha20"
+            },
+            "button_label": {
+                "color_identifier": "white"
+            },
+            "button_label_disabled": {
+                "color_identifier": "white_alpha30"
+            },
+            "input_bg_default": {
+                "color_identifier": "white_alpha50"
+            },
+            "input_bg_selected": {
+                "color_identifier": "orange700"
+            },
+            "input_bg_error": {
+                "color_identifier": "red900"
+            },   
+            "input_placeholder": {
+                "color_identifier": "white_alpha30"
+            },
+            "input_text": {
+                "color_identifier": "white"
+            },
+            "checkbox_default": {
+                "color_identifier": "white_alpha50"
+            },
+            "checkbox_selected": {
+                "color_identifier": "green700"
+            },
+            "icon_action": {
+                "color_identifier": "orange900"
+            },
+            "icon_navbar": {
+                "color_identifier": "white"
+            },
+            "icon_on_img": {
+                "color_identifier": "white_alpha30"
+            },
+            "icon_popup": {
+                "color_identifier": "white_alpha30"
+            },      
+            "separator": {
+                "color_identifier": "white_alpha10"
+            },
+            "text_main": {
+                "color_identifier": "white"
+            },
+            "text_primary": {
+                "color_identifier": "white_alpha80"
+            },
+            "text_secondary": {
+                "color_identifier": "white_alpha50"
+            },
+            "text_success": {
+                "color_identifier": "green700"
+            },
+            "text_error": {
+                "color_identifier": "red900"
+            },
+            "text_link_main": {
+                "color_identifier": "orange900"
+            },
+            "text_link_secondary": {
+                "color_identifier": "blue900"
+            },
+            "text_money": {
+                "color_identifier": "red700"
+            }      
+        }
+    }
+}
